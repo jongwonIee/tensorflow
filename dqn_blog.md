@@ -39,8 +39,13 @@ Nature라는 학술지(http://www.nature.com/)에 2015년에 <'Human-level contr
 
 참고 자료:
 <'Human-level control through deep reinforcement learning'>
+
 https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf
+
 <'Playing Atari with Deep Reinforcement Learning'>
+
 https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
+
 <'김성훈 교수님의 DQN강의'>
+
 https://www.youtube.com/watch?v=S1Y9eys2bdg&list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG&index=14
